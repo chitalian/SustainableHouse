@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Release\Interop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Release\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Release\Interop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Release\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

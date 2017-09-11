@@ -1,0 +1,43 @@
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\Mac\Home\Documents\School\Northeastern\GE1501\Milestone 4\MSVS\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+\\Mac\Home\Google Drive\Documents\School\Northeastern\GE1501\Milestone 4\MSVS - Copy\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\Mac\Home\Google Drive\Documents\School\Northeastern\GE1501\Milestone 4\MSVS - Copy\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+\\Mac\Home\Google Drive\Documents\School\Northeastern\GE1501\Milestone 4\MSVS - Copy\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+\\Mac\Home\Google Drive\Documents\School\Northeastern\GE1501\Milestone 4\MSVS - Copy\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+\\Mac\Home\Google Drive\Documents\School\Northeastern\GE1501\Milestone 4\MSVS - Copy\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+\\Mac\Home\Google Drive\Documents\School\Northeastern\GE1501\Milestone 4\MSVS - Copy\Serialcom1\WindowsFormsApplication1 - High Res\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
